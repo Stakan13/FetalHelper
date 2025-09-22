@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RAe3W5OXdA=",
+  "success": true,
+  "projectFilePath": "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Application/FetalHelper.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/mikhail/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

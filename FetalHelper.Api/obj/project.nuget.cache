@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1JUJJGtR/8o=",
+  "success": true,
+  "projectFilePath": "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Api/FetalHelper.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/mikhail/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/home/mikhail/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/mikhail/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
