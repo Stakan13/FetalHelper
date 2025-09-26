@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Application/FetalHelper.Application.csproj": {}
+    "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Core1/FetalHelper.Core1.csproj": {}
   },
   "projects": {
-    "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Application/FetalHelper.Application.csproj": {
+    "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Core1/FetalHelper.Core1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Application/FetalHelper.Application.csproj",
-        "projectName": "FetalHelper.Application",
-        "projectPath": "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Application/FetalHelper.Application.csproj",
+        "projectUniqueName": "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Core1/FetalHelper.Core1.csproj",
+        "projectName": "FetalHelper.Core1",
+        "projectPath": "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Core1/FetalHelper.Core1.csproj",
         "packagesPath": "/home/mikhail/.nuget/packages/",
-        "outputPath": "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Application/obj/",
+        "outputPath": "/home/mikhail/RiderProjects/FetalHelper/FetalHelper.Core1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mikhail/.nuget/NuGet/NuGet.Config"
