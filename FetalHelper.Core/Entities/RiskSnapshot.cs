@@ -1,8 +1,9 @@
+using FetalHelper.Core.Abstractions;
 using FetalHelper.Core.Enums.RiskSnapshotsEnums;
 
 namespace FetalHelper.Core.Entities;
 
-public class RiskSnapshot
+public class RiskSnapshot : IIdentifiable
 {
     public Guid Id { get; set; }
     public Guid SessionId  { get; set; }

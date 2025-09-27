@@ -1,8 +1,9 @@
+using FetalHelper.Core.Abstractions;
 using FetalHelper.Core.Enums.DetectedEventEnums;
 
 namespace FetalHelper.Core.Entities;
 
-public class DetectedEvent
+public class DetectedEvent : IIdentifiable
 {
     public Guid Id { get; set; }
     public Guid SessionId { get; set; }
