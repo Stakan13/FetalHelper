@@ -1,9 +1,10 @@
+using FetalHelper.Core.Abstractions;
 using FetalHelper.Core.Enums;
 using FetalHelper.Core.Enums.MonitoringSessionEnums;
 
 namespace FetalHelper.Core.Entities;
 
-public class MonitoringSession
+public class MonitoringSession : IIdentifiable
 {
     public Guid Id { get; set; }
     public MonitoringSessionMode Mode { get; set; }

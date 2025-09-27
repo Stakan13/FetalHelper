@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FetalHelper.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+701e6618391257fb251d25b27c468078039e38b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+809596b2504667c7fec0627dd401595ef8d1ddf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FetalHelper.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FetalHelper.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

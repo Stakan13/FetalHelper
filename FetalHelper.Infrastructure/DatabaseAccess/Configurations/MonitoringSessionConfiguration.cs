@@ -17,6 +17,7 @@ public class MonitoringSessionConfiguration : IEntityTypeConfiguration<Monitorin
         builder.Property(x => x.EndTime).IsRequired();
         builder.Property(x => x.GestationalAgeWeeks).IsRequired();
         builder.Property(x => x.SampleRateHz).IsRequired();
+        builder.Property(x => x.PatientRef).IsRequired();
         
         builder.HasIndex(x => x.PatientRef);
         builder.HasIndex(x => x.DeviceId);
